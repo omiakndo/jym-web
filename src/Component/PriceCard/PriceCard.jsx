@@ -5,7 +5,7 @@ const PriceCard = ({price}) => {
     return (
         <div className='bg-gray-500 rounded-lg pt-3 pb-3 mx-10 flex flex-col'>
             <h2 className='text-center'>
-                <span className='text-5xl font-extrabold text-purple-500'>{price.price}</span>
+                <span className='text-5xl font-extrabold text-purple-200'>${price.price}</span>
                 <span className='text-1xl font-bold'>/mon</span>
             </h2>
           <h1 className='font-extrabold text-3xl text-center'>  {price.name}</h1>
