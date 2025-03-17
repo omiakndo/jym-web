@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "name": "Basic Membership",
+      "price": 30,
+      "duration": "month",
+      "features": ["Gym access", "Locker"]
+    },
+    {
+      "id": 2,
+      "name": "Standard Membership",
+      "price": 50,
+      "duration": "month",
+      "features": ["Gym access", "Locker", "Classes"]
+    },
+    {
+      "id": 3,
+      "name": "Premium Membership",
+      "price": 80,
+      "duration": "month",
+      "features": ["Gym access", "Locker", "Classes", "Trainer", "Sauna"]
+    }
+  ]
+  
